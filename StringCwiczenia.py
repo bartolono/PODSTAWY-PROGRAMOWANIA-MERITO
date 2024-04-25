@@ -439,7 +439,10 @@ def main():
         exercise_function = get_exercise_function(exercise_name)
         if exercise_function:
             result = exercise_function()
-            print(result)
+            if result is not None:
+                print(result)
+            else:
+                break
         else:
             print("Nie znaleziono ćwiczenia.")
 
