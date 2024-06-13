@@ -9,5 +9,5 @@ Some exercises have some text written in Polish language.
 
 # List of contents:
 1. 13.04.2024 - collection of tasks required from April 13, 2024 meeting.
-2. 18.05.2024 - collection of taska required from May 18, 2024 meeting.
+2. 18.05.2024 - collection of tasks required from May 18, 2024 meeting.
 3. Semester Project - Discord Bot created for my semester project.
